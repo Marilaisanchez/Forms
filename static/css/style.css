@@ -201,6 +201,7 @@ input[type="password"] {
     border: none;
     width: 94%;
     font-size: 15px;
+    color: #000000;
 }
 
 .form__card label {
@@ -215,6 +216,7 @@ input[type="password"] {
     font: "myriad-pro", sans-serif;
     border: none;
     width: 94%;
+    color: #000000;
 }
 
 .form__button {
